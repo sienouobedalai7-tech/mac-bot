@@ -15,5 +15,39 @@
     "statut": "OUVERTE",
     "resultat_pips": null,
     "fermee_le": null
+  },
+  {
+    "id": "GBPCAD_2026-09-01T02:05:10.851118+00:00",
+    "symbol": "GBP/CAD",
+    "display": "GBP/CAD",
+    "asset_type": "forex",
+    "strategie": "retest_ema50",
+    "direction": "VENTE",
+    "prix_entree": 1.87765,
+    "stop_loss": 1.87809,
+    "take_profit": 1.87645,
+    "ratio_rr": 2.72,
+    "pips_risque": 4.4,
+    "ouverte_le": "2026-09-01T02:05:10.851118+00:00",
+    "statut": "OUVERTE",
+    "resultat_pips": null,
+    "fermee_le": null
+  },
+  {
+    "id": "CADJPY_2026-09-01T02:05:16.868060+00:00",
+    "symbol": "CAD/JPY",
+    "display": "CAD/JPY",
+    "asset_type": "forex",
+    "strategie": "retest_ema50",
+    "direction": "ACHAT",
+    "prix_entree": 115.26901,
+    "stop_loss": 115.22805,
+    "take_profit": 115.40996,
+    "ratio_rr": 3.44,
+    "pips_risque": 4.1,
+    "ouverte_le": "2026-09-01T02:05:16.868060+00:00",
+    "statut": "OUVERTE",
+    "resultat_pips": null,
+    "fermee_le": null
   }
 ]
