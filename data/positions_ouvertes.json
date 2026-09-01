@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "EURCHF_2026-09-01T19:43:54.755311+00:00",
+    "symbol": "EUR/CHF",
+    "display": "EUR/CHF",
+    "asset_type": "forex",
+    "strategie": "retest_ema50",
+    "direction": "ACHAT",
+    "prix_entree": 0.94084,
+    "stop_loss": 0.94025,
+    "take_profit": 0.9419,
+    "ratio_rr": 1.81,
+    "pips_risque": 5.9,
+    "ouverte_le": "2026-09-01T19:43:54.755311+00:00",
+    "statut": "OUVERTE",
+    "resultat_pips": null,
+    "fermee_le": null
+  }
+]
