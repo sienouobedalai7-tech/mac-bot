@@ -15,5 +15,39 @@
     "statut": "OUVERTE",
     "resultat_pips": null,
     "fermee_le": null
+  },
+  {
+    "id": "USDJPY_2026-09-01T22:05:47.175805+00:00",
+    "symbol": "USD/JPY",
+    "display": "USD/JPY",
+    "asset_type": "forex",
+    "strategie": "retest_ema50",
+    "direction": "ACHAT",
+    "prix_entree": 160.17214,
+    "stop_loss": 160.1205,
+    "take_profit": 160.27118,
+    "ratio_rr": 1.92,
+    "pips_risque": 5.2,
+    "ouverte_le": "2026-09-01T22:05:47.175805+00:00",
+    "statut": "OUVERTE",
+    "resultat_pips": null,
+    "fermee_le": null
+  },
+  {
+    "id": "AUDNZD_2026-09-01T22:06:13.523572+00:00",
+    "symbol": "AUD/NZD",
+    "display": "AUD/NZD",
+    "asset_type": "forex",
+    "strategie": "retest_ema50",
+    "direction": "ACHAT",
+    "prix_entree": 1.21276,
+    "stop_loss": 1.21228,
+    "take_profit": 1.21376,
+    "ratio_rr": 2.06,
+    "pips_risque": 4.8,
+    "ouverte_le": "2026-09-01T22:06:13.523572+00:00",
+    "statut": "OUVERTE",
+    "resultat_pips": null,
+    "fermee_le": null
   }
 ]
