@@ -15,5 +15,22 @@
     "statut": "OUVERTE",
     "resultat_pips": null,
     "fermee_le": null
+  },
+  {
+    "id": "AUDUSD_2026-09-02T23:54:15.248343+00:00",
+    "symbol": "AUD/USD",
+    "display": "AUD/USD",
+    "asset_type": "forex",
+    "strategie": "retest_ema50",
+    "direction": "ACHAT",
+    "prix_entree": 0.71663,
+    "stop_loss": 0.71627,
+    "take_profit": 0.71755,
+    "ratio_rr": 2.55,
+    "pips_risque": 3.6,
+    "ouverte_le": "2026-09-02T23:54:15.248343+00:00",
+    "statut": "OUVERTE",
+    "resultat_pips": null,
+    "fermee_le": null
   }
 ]
