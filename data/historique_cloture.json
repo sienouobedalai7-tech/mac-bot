@@ -250,5 +250,41 @@
     "resultat_pips": -6.1,
     "fermee_le": "2026-09-02T17:07:13.146601+00:00",
     "statut_final": "FERMEE_SL"
+  },
+  {
+    "id": "GBPUSD_2026-09-02T17:07:22.783922+00:00",
+    "symbol": "GBP/USD",
+    "display": "GBP/USD",
+    "asset_type": "forex",
+    "strategie": "retest_ema50",
+    "direction": "VENTE",
+    "prix_entree": 1.34941,
+    "stop_loss": 1.34999,
+    "take_profit": 1.34751,
+    "ratio_rr": 3.27,
+    "pips_risque": 5.8,
+    "ouverte_le": "2026-09-02T17:07:22.783922+00:00",
+    "statut": "OUVERTE",
+    "resultat_pips": 6e-05,
+    "fermee_le": "2026-09-03T12:04:07.520510+00:00",
+    "statut_final": "FERMEE_EXPIREE"
+  },
+  {
+    "id": "AUDUSD_2026-09-02T23:54:15.248343+00:00",
+    "symbol": "AUD/USD",
+    "display": "AUD/USD",
+    "asset_type": "forex",
+    "strategie": "retest_ema50",
+    "direction": "ACHAT",
+    "prix_entree": 0.71663,
+    "stop_loss": 0.71627,
+    "take_profit": 0.71755,
+    "ratio_rr": 2.55,
+    "pips_risque": 3.6,
+    "ouverte_le": "2026-09-02T23:54:15.248343+00:00",
+    "statut": "OUVERTE",
+    "resultat_pips": 9.18,
+    "fermee_le": "2026-09-03T12:04:10.516148+00:00",
+    "statut_final": "FERMEE_TP"
   }
 ]
